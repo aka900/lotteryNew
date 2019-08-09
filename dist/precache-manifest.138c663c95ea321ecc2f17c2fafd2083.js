@@ -380,12 +380,12 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/fonts/nucleo-icons.c1733565.eot"
-  },
-  {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "46abbc4a676739dbd61f8a305cb63fd8",
@@ -416,12 +416,12 @@ self.__precacheManifest = [
     "url": "/css/chunk-5b90652a.c9490e9c.css"
   },
   {
-    "revision": "0d3b6d2a201c20e9a9da271e6397cdfb",
-    "url": "/img/brand/logo.png"
-  },
-  {
     "revision": "6fafe4baca9d50d61a898c84ade7afa3",
     "url": "/img/brand/white.png"
+  },
+  {
+    "revision": "0d3b6d2a201c20e9a9da271e6397cdfb",
+    "url": "/img/brand/logo.png"
   },
   {
     "revision": "d19650fa518e583f968450b8283ec126",
@@ -444,10 +444,6 @@ self.__precacheManifest = [
     "url": "/img/shadow.png"
   },
   {
-    "revision": "6d6a0fed48a6a6986273c9b0cf5b8277",
-    "url": "/img/theme/footer.png"
-  },
-  {
     "revision": "5448a51128c7ebfe84f19766f43e8036",
     "url": "/img/trys.png"
   },
@@ -468,28 +464,32 @@ self.__precacheManifest = [
     "url": "/img/both.png"
   },
   {
-    "revision": "b235af4c5f3549ebc619cf7bcae10fa7",
-    "url": "/img/dashboard-badge.png"
-  },
-  {
     "revision": "75b74704f230a502a8a72d0c0b9b00f7",
     "url": "/img/cardszz.png"
+  },
+  {
+    "revision": "b235af4c5f3549ebc619cf7bcae10fa7",
+    "url": "/img/dashboard-badge.png"
   },
   {
     "revision": "bf66622ed90940f710bb5d788ea97bac",
     "url": "/img/mtn.gif"
   },
   {
+    "revision": "6d6a0fed48a6a6986273c9b0cf5b8277",
+    "url": "/img/theme/footer.png"
+  },
+  {
     "revision": "6b0b706b041b3ba16ad5e01d19d0efc4",
     "url": "/img/theme/side-nav.png"
   },
   {
-    "revision": "211aaa7be2fbe23036662720cebf8119",
-    "url": "/img/banner.jpg"
-  },
-  {
     "revision": "4e025e5dca5dbd64e1772d722e71178d",
     "url": "/img/bankdd.png"
+  },
+  {
+    "revision": "211aaa7be2fbe23036662720cebf8119",
+    "url": "/img/banner.jpg"
   },
   {
     "revision": "9851c2fbbd80c677f93ef668060dd595",
@@ -504,12 +504,12 @@ self.__precacheManifest = [
     "url": "/img/theme/promo-1.png"
   },
   {
-    "revision": "2f851b98a02f61345dc0f9620ef624ac",
-    "url": "/img/games.png"
-  },
-  {
     "revision": "84f1b886a9272d3d63d339a59e5c831c",
     "url": "/img/gray.png"
+  },
+  {
+    "revision": "2f851b98a02f61345dc0f9620ef624ac",
+    "url": "/img/games.png"
   },
   {
     "revision": "f074e3c2a8c8fb1343f263ddb31fbfe0",
